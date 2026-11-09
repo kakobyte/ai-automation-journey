@@ -1,10 +1,7 @@
 lernstunden_pro_tag = [2.5, 4, 5, 0, 7, 8, 0]
 
-def ist_gueltig_woche(liste):
-    datencheck_wochentage = False
-    if len(liste) == 7:
-        datencheck_wochentage = True
-    return datencheck_wochentage
+def ist_gueltige_woche(liste):
+    return len(liste) == 7
 
 def summe_lernstunden_pro_woche(liste):
     gesamtstunden_pro_woche = 0
@@ -31,7 +28,7 @@ def anzahl_nuller_tage(liste):
             nuller_tage += 1
     return nuller_tage
 
-datencheck_wochentage = ist_gueltig_woche(lernstunden_pro_tag)
+datencheck_wochentage = ist_gueltige_woche(lernstunden_pro_tag)
 
 if datencheck_wochentage == True:
     gesamtstunden_pro_woche = summe_lernstunden_pro_woche(lernstunden_pro_tag)

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "TechCorp",
+    "city": "Berlin",
+    "salary": 65000,
+    "remote": true
+  },
+  {
+    "title": "Data Analyst",
+    "company": "DataInc",
+    "city": "München",
+    "salary": 52000,
+    "remote": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Smith, Jones & Co",
+    "city": "Wien",
+    "salary": 70000,
+    "remote": true
+  },
+  {
+    "title": "Sales Associate",
+    "company": "SalesCo",
+    "city": "Hamburg",
+    "salary": null,
+    "remote": false
+  },
+  {
+    "title": "Automation Developer",
+    "company": "FlowWorks",
+    "city": "Graz",
+    "salary": 58000,
+    "remote": true
+  }
+]

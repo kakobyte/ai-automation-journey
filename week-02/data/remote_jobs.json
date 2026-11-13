@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "TechCorp",
+    "city": "Berlin",
+    "salary": 65000,
+    "remote": true
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Smith, Jones & Co",
+    "city": "Wien",
+    "salary": 70000,
+    "remote": true
+  },
+  {
+    "title": "Automation Developer",
+    "company": "FlowWorks",
+    "city": "Graz",
+    "salary": 58000,
+    "remote": true
+  }
+]

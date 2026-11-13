@@ -1,0 +1,9 @@
+title,company,city,salary,remote
+Software Engineer,TechCorp,Berlin,65000,true
+Data Analyst,DataInc,München,52000,false
+AI Engineer,"Smith, Jones & Co",Wien,70000,TRUE
+Sales Associate,SalesCo,Hamburg,,false
+Automation Developer,FlowWorks,Graz,58000, true
+Backend Developer,CodeHaus,Zürich,abc,true
+Junior Developer,StartUp GmbH,Linz,45000,true
+ML Engineer,NeuralNet AG,Köln,80000,false
